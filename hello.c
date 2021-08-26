@@ -11,6 +11,8 @@
 
      printf("Sajanpreet Singh!\n");
      printf("Computer Engineering\n");
+     printf("Austin Bubak\n");
+     printf("Electrical Engineering\n");
 
      return 0;
  }
